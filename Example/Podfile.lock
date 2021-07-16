@@ -1,0 +1,16 @@
+PODS:
+  - MySDK (0.1.0)
+
+DEPENDENCIES:
+  - MySDK (from `../`)
+
+EXTERNAL SOURCES:
+  MySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MySDK: 1193b551965cfe75b2053a1dc7affc38ecc801c6
+
+PODFILE CHECKSUM: 3c486dcc5d5c1cc05f21b04f1bda66019c904af5
+
+COCOAPODS: 1.9.3
